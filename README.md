@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=fahadzardari&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats-alpha-opal-29.vercel.app/api?username=fahadzardari&show_icons=true&theme=radical">
 </p>
 <p align="center">
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadzardari&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats-alpha-opal-29.vercel.app/api/top-langs?username=fahadzardari&show_icons=true&theme=radical">
 </p>
